@@ -19,4 +19,4 @@ EOF;
 
 Route::get('hello', function() use ($html) {
 	return $html;
-});
+}）;　
